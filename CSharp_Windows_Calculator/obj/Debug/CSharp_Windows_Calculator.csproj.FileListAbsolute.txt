@@ -1,0 +1,10 @@
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\bin\Debug\CSharp_Windows_Calculator.exe.config
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\bin\Debug\CSharp_Windows_Calculator.exe
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\bin\Debug\CSharp_Windows_Calculator.pdb
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\obj\Debug\CSharp_Windows_Calculator.csprojAssemblyReference.cache
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\obj\Debug\CSharp_Windows_Calculator.Form1.resources
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\obj\Debug\CSharp_Windows_Calculator.Properties.Resources.resources
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\obj\Debug\CSharp_Windows_Calculator.csproj.GenerateResource.cache
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\obj\Debug\CSharp_Windows_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\obj\Debug\CSharp_Windows_Calculator.exe
+C:\Users\Philippe\Desktop\Fabien-Github\CSharp_Windows_Calculator\CSharp_Windows_Calculator\obj\Debug\CSharp_Windows_Calculator.pdb
